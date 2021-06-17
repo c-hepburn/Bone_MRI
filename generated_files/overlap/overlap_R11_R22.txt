@@ -1,0 +1,16 @@
+# 
+# Col. 0: scan ID, Col. 1: volume overlap
+# 
+# Data, used to compute volume overlap:
+# ['1003_inflammation_R11.nii.gz', '1007_inflammation_R11.nii.gz', '1012_inflammation_R11.nii.gz', '1013_inflammation_R11.nii.gz', '1016_inflammation_R11.nii.gz', '1234_inflammation_R11.nii.gz', '3002_inflammation_R11.nii.gz', '4386_inflammation_R11.nii.gz']
+# 
+# ['1003_inflammation_R22.nii.gz', '1007_inflammation_R22.nii.gz', '1012_inflammation_R22.nii.gz', '1013_inflammation_R22.nii.gz', '1016_inflammation_R22.nii.gz', '1234_inflammation_R22.nii.gz', '3002_inflammation_R22.nii.gz', '4386_inflammation_R22.nii.gz']
+# 
+1.003000000000000000e+03 3.922829581993569348e-01
+1.007000000000000000e+03 6.002162941600577284e-01
+1.012000000000000000e+03 4.236437246963562497e-01
+1.013000000000000000e+03 8.400138185586879525e-01
+1.016000000000000000e+03 4.885650322637285492e-01
+1.234000000000000000e+03 5.818913480885311573e-01
+3.002000000000000000e+03 7.151955705769459382e-01
+4.386000000000000000e+03 2.770959633298831770e-01

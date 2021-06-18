@@ -1,6 +1,7 @@
-# Bone_MRI
+# "Towards Deep Learning-assisted Quantification of Inflammation in Spondyloarthritis: Intensity-based Lesion Segmentation"
+Hepburn C., Zhang H., Iglesias J.E., Jones A., Bainbridge A., Bray T.J.P. and Hall-Craggs M.A.
 
-Presented data and code are the supplemental material for the article “Towards Deep Learning-assisted Quantification of Inflammation in Spondyloarthritis: Intensity-based Lesion Segmentation”.
+Presented data and code are the supplemental material for the article.
 
 •	Folder “data” contains image and segmentation files in nifti format
 

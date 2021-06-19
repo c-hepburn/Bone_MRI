@@ -1,5 +1,5 @@
 # "Towards Deep Learning-assisted Quantification of Inflammation in Spondyloarthritis: Intensity-based Lesion Segmentation"
-Hepburn C., Zhang H., Iglesias J.E., Jones A., Bainbridge A., Bray T.J.P. and Hall-Craggs M.A.
+C. Hepburn, H. Zhang, J.E. Iglesias, A. Jones, A. Bainbridge, T.J.P. Bray and M.A. Hall-Craggs
 
 Presented data and code are the supplemental material for the article.
 

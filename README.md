@@ -1,4 +1,4 @@
-# "Deep Learning-Enabled Intensity-based Segmentation (DEIS) of Inflammatory Lesions in Spondyloarthritis"
+# "Volume of hyperintense inflammation (VHI): a deep learning-enabled quantitative imaging biomarker of inflammation load in spondyloarthritis"
 
 Presented data and code are the supplemental material for the article in submission.
 

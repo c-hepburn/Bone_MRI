@@ -1,6 +1,6 @@
 # "Volume of hyperintense inflammation (VHI): a deep learning-enabled quantitative imaging biomarker of inflammation load in spondyloarthritis"
 
-Presented data and code are the supplemental material for the article in submission.
+Presented data and code are the supplemental material for the article.
 
 •	Folder “data” contains image and segmentation files in nifti format (see data_description document)
 
